@@ -1,4 +1,4 @@
-# Pull Request Body Pattern Check
+# Pull Request Body Pattern Check!
 
 This action verifies content in a PR body before allowing merging. This can be useful if you
 expect a link to an external site, or certain explicit content.
